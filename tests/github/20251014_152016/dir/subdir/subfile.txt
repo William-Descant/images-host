@@ -1,1 +1,0 @@
-Nested sample file for directory transfer testing.
